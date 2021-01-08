@@ -21,38 +21,25 @@ h1 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.about-container {
-  width: 97%;
-  max-width: fit-content;
+.section-container {
   position: relative;
-  margin: auto;  
   padding: 15px;
   border: 2px solid #E85A4F;
   background-color: whitesmoke;
+  overflow: auto;
 }
-.about-container img {
+.section-container img {
   width: 20%;
   height: auto;
   border-radius: 40%;
   border: 2px white solid;
+  float: right;
 }
-.projects {
-  
-}
-.projects a:link, a:visited {
+.section-container a:link, a:visited {
   color: #120302;
   text-decoration: none;
 }
-.projects a:hover, a:active {
+.section-container a:hover, a:active {
   color: #E85A4F;
   text-decoration: underline;
-}
-.resume-container {
-
-}
-.resume-container ol {
-  list-style-type: none;
-}
-.resume-section {
-
 }
