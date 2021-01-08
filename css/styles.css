@@ -22,17 +22,27 @@ h1 {
   padding-bottom: 20px;
 }
 .about-container {
-  width: 100%;
+  width: 97%;
+  max-width: fit-content;
+  position: relative;
+  margin: auto;  
+  padding: 15px;
+  border: 2px solid #E85A4F;
 }
 .about-container img {
   width: 20%;
   height: auto;
+  border-radius: 40%;
+  border: 2px white solid;
 }
 .projects {
 
 }
 .resume-container {
 
+}
+.resume-container ol {
+  list-style-type: none;
 }
 .resume-section {
 
