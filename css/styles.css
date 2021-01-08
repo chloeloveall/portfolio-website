@@ -7,7 +7,7 @@ h1, h2, h3, p {
 }
 h1 {
   font-size: 36px;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
 }
 .center-container {
   height: 100%;
@@ -28,6 +28,7 @@ h1 {
   margin: auto;  
   padding: 15px;
   border: 2px solid #E85A4F;
+  background-color: whitesmoke;
 }
 .about-container img {
   width: 20%;
@@ -36,7 +37,15 @@ h1 {
   border: 2px white solid;
 }
 .projects {
-
+  
+}
+.projects a:link, a:visited {
+  color: #120302;
+  text-decoration: none;
+}
+.projects a:hover, a:active {
+  color: #E85A4F;
+  text-decoration: underline;
 }
 .resume-container {
 
