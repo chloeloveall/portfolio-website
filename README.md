@@ -10,6 +10,7 @@
 * CSS
 * Git/Github
 * VS Code
+* coolers.co
 
 ## Description
 
