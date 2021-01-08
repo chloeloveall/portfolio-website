@@ -12,20 +12,21 @@ h1 {
 .center-container {
   height: 100%;
   width: 80%;
-  overflow-x: hidden;
-  overflow-y: scroll;
   margin: auto;
-  position: absolute;
+  position: relative;
   top: 0; left: 0; bottom: 0; right: 0;
   background-color: #EAE7DC;
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-.about {
-
+.about-container {
+  width: 100%;
 }
-.about img {
-
+.about-container img {
+  width: 20%;
+  height: auto;
 }
 .projects {
 
