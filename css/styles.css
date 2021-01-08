@@ -1,8 +1,13 @@
 body {
-
+  background-color: #EAE7DC;
+}
+h1, h2, p {
+  color: #120302;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
-
+  font-size: 36px;
+  letter-spacing: 3px;
 }
 .about {
 
