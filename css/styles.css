@@ -27,12 +27,13 @@ h1 {
   border: 2px solid #E85A4F;
   background-color: whitesmoke;
   overflow: auto;
+  margin-top: 20px;
 }
 .section-container img {
   width: 20%;
   height: auto;
-  border-radius: 40%;
-  border: 2px white solid;
+  border-radius: 50%;
+  border: 2px #E85A4F solid;
   float: right;
 }
 .section-container a:link, a:visited {
