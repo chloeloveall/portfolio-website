@@ -57,3 +57,7 @@ h1 {
   list-style: none;
   padding: 0px;
 }
+
+.resume-section ul {
+  columns: 2;
+}
