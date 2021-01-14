@@ -1,14 +1,17 @@
 body {
   background-color: #D8C3A5;
 }
+
 h1, h2, h3, p {
   color: #120302;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h1 {
   font-size: 36px;
   letter-spacing: 5px;
 }
+
 .center-container {
   height: 100%;
   width: 80%;
@@ -21,6 +24,7 @@ h1 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 .section-container {
   position: relative;
   padding: 15px;
@@ -29,6 +33,7 @@ h1 {
   overflow: auto;
   margin-top: 20px;
 }
+
 .section-container img {
   width: 20%;
   height: auto;
@@ -37,14 +42,17 @@ h1 {
   float: right;
   margin: 5px;
 }
+
 .section-container a:link, a:visited {
   color: #120302;
   text-decoration: none;
 }
+
 .section-container a:hover, a:active {
   color: #E85A4F;
   text-decoration: underline;
 }
+
 .resume-section ol, ul {
   list-style: none;
   padding: 0px;
