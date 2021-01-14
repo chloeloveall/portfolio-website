@@ -8,7 +8,9 @@
 
 * HTML
 * CSS
-* Git/Github
+* Bootstrap
+* Git
+* Github
 * VS Code
 * coolers.co
 
@@ -18,11 +20,9 @@ _First independent Epicodus project that creates a landing page for coding portf
 
 ## Setup/Installation Requirements
 
-* 
-* 
-* 
-* 
-* 
+1. Clone the repository
+    >$ git clone https://github.com/chloeloveall/portfolio-website.git
+2. Open the portfolio-website directory in code editor (VS Code recommended)
 
 ## Known Bugs
 
