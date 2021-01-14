@@ -61,3 +61,8 @@ h1 {
 .resume-section ul {
   columns: 2;
 }
+
+.emboldened {
+  font-weight: bold;
+  color: #E85A4F;
+}
