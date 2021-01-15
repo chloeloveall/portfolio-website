@@ -17,7 +17,7 @@
 ## Description
 
 _First independent Epicodus project that creates a landing page for coding portfolio._<br>
-_View project on GH Pages: [gh-pages]()_
+_View project on GH Pages: [gh-pages](https://chloeloveall.github.io/portfolio-website/)_
 
 ## Setup/Installation Requirements
 
