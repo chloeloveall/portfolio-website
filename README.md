@@ -16,13 +16,14 @@
 
 ## Description
 
-_First independent Epicodus project that creates a landing page for coding portfolio._
+_First independent Epicodus project that creates a landing page for coding portfolio._<br>
+_View project on GH Pages: [gh-pages]()_
 
 ## Setup/Installation Requirements
 
 1. Clone the repository
     >$ git clone https://github.com/chloeloveall/portfolio-website.git
-2. Open the portfolio-website directory in code editor (VS Code recommended)
+2. Open the portfolio-website directory in a code editor (VS Code is recommended)
 
 ## Known Bugs
 
